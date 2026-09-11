@@ -1,0 +1,1 @@
+# SQL-projekt-Dostupnost-zakladnich-potravin-v-CR
